@@ -1,5 +1,7 @@
 # Machine Learning Project- Crop Recommendation for Precision Agriculture
 
+Dataset: https://drive.google.com/drive/folders/1YF1yffKA12Pmwy_wmjnwXnti8vpduIcU
+
 The Crop Recommendation System is a machine learning-based web application that provides recommendations for suitable crops that needed to be cultivated based on various environmental and soil conditions. 
 
 It aims to assist farmers and agricultural professionals in making informed decisions about crop selection, to optimize the yields, minimize crop failure and maximizing profitability.
