@@ -9,11 +9,6 @@ To explore the data, ChrisCo’s daily customer data visiting its outlet and the
 ## Attributes of the Dataset
 
 We need to explore 5 different CSV datasets that contain the daily customer data visiting each outlet and the overall performance of each outlet, such as outlet marketing, outlet overheads, outlet size, and outlet staff.
-DailyCustomers.csv - Contains the number of daily customers each store had over a one-year period.
-StoreMarketing.csv - Contains the amount of money each store spent annually for marketing.
-StoreOverheads.csv - Contains the amount of money each store spent annually for non-essential purposes.
-StoreSize.csv - Contains the size (floor space) of each store in square meters.
-StoreStaff.csv - Contains the number of staff members employed at each store.
 
 • Daily Customer Data: This dataset contains information on the number of customers visiting each outlet each day in the year 2021
 
