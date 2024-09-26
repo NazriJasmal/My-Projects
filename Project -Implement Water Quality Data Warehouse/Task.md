@@ -2,7 +2,7 @@
 
 You are required to design and build a data mart/data warehouse preferably using the Oracle DBMS (Database Management System), implement required tasks. 
 
-### Description of the Scenario 
+#### Description of the Scenario 
 
 Traditional water quality monitoring involves three steps, namely water sampling periodically, 
 testing and investigation. This technique can be expensive, human centric, time consuming, and only 
@@ -43,9 +43,13 @@ database.
 
 You should design the Data Warehouse which will provide information on the following:
 • The list of water sensors measured by type of it by month
+
 • The number of sensor measurements collected by type of sensor by week
+
 • The number of measurements made by location by month
+
 • The average number of measurements covered for PH by year
+
 • The average value of Nitrate measurements by locations by year
 
 #### Design Data Mart/Warehouse 
@@ -80,14 +84,25 @@ The given source code must be error free.
 
 #### Deliverables 
 Submit a report to support your implementation which should include: 
+
 • Explain and justify every step of your DW design and implementation in the report.
+
 • Your Star Schema Design and BUS plan.
+
 • Documentation for your ETL processes to include all scripts.
+
 • A data cleansing plan together with any scripts to identify and rectify errors.
+
 • PL/SQL code listings for your system.
+
 • Scripts for SQL for your queries.
+
 • Your Data Warehouse BUS plan.
+
 • Python code used for connecting to Oracle, data pre-processing, and result summary.
+
 • A screenshot of any forms, reports, or other GUIs.
+
 • A discussion of any problems that you encountered and how you tried to solve them.
+
 • Submit a file of your scripts used to build and query the data warehouse.
