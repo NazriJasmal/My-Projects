@@ -42,6 +42,7 @@ under the name WaterQuality_CW.zip. There are many concerns about the quality of
 database.
 
 You should design the Data Warehouse which will provide information on the following:
+
 • The list of water sensors measured by type of it by month
 
 • The number of sensor measurements collected by type of sensor by week
